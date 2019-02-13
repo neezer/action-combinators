@@ -10,13 +10,16 @@
   ],
   "author": "Evan Sherwood <evan@sherwood.io>",
   "license": "MIT",
+  "peerDependencies": {
+    "@neezer/action": "^1.0.1"
+  },
   "dependencies": {
     "@most/core": "^1.3.2",
-    "@most/prelude": "^1.7.2",
-    "@neezer/action": "^1.0.1"
+    "@most/prelude": "^1.7.2"
   },
   "devDependencies": {
     "@commitlint/config-conventional": "^7.5.0",
+    "@neezer/action": "^1.0.1",
     "@most/types": "^1.0.1",
     "@types/tape": "^4.2.32",
     "rimraf": "^2.6.2",
