@@ -51,10 +51,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@neezer/action@^1.0.0":
-  version "1.0.0"
-  resolved "https://registry.npmjs.org/@neezer/action/-/action-1.0.0.tgz#5edb8591f3057eca21adfea4870f1a9470a75ae5"
-  integrity sha512-RY+NmNkGtA1724B1oxX0aeLVG5g8590fS/+Mn+0IG3mHE0Z+m88n6yG5dU07rJqqXPnIW2ewr9mjA+ACjp99ZQ==
+"@neezer/action@^1.0.1":
+  version "1.0.1"
+  resolved "https://registry.npmjs.org/@neezer/action/-/action-1.0.1.tgz#f51bb3b7da4c6f491aae2c7a1e828e5fde933bc4"
+  integrity sha512-95nNNG8M0yatGS0N/aLmRkwyUiwY9hGHL4v7ZtK/s432VC5S9U2jg/keS3WjgPfB4hmYPlJJCrNYbSdDiTp2xQ==
   dependencies:
     nanoid "^2.0.0"
 
